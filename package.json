@@ -1,6 +1,7 @@
 {
   "name": "js-17",
   "version": "1.0.0",
+  "default":"17.html",
   "scripts": {
     "start": "parcel 17.html",
     "build": "parcel build 17.html --dist-dir ./dist"
